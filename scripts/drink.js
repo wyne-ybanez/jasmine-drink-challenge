@@ -8,7 +8,7 @@ If the age is less than 130, then it should return "Drink Whisky"
 Else return "Sorry. I can’t tell what drink because that age is incorrect!" */
 
 function whatCanIDrink (age) {
-    if (age < 0) {
+    if (age <= 0) {
         return "Sorry. I can't tell you what to drink because that age is incorrect!";
     } else if (age < 14 && age > 0) {
         return "Drink Toddy";
