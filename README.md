@@ -1,5 +1,8 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
+# Jasmine Drink About Game Challenge
+
+-  The following code is my own attempt/solution to this challenge
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Gitpod Reminders
